@@ -4,3 +4,4 @@ Neural Radiance Fields, or NeRF as it's popularly known today is a neural networ
 
 main.py -> The file to be run
 
+
