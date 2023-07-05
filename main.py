@@ -9,7 +9,7 @@ import_libraries()
 
 
 
-model = NERF_Model(9,256,5,sine_activation=True,positional_encoding=False)
+model = NERF_Model(10,256,5,sine_activation=True,positional_encoding=False)
 x = torch.randn([10,2])
 model(x).shape
 
