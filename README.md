@@ -4,6 +4,6 @@ Neural Radiance Fields, or NeRF as it's popularly known today is a neural networ
 
 main.py -> The file to be run
 
-<img src="/images/rendered.png">
+<img align="middle" src="/images/rendered.png">
 
 
